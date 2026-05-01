@@ -1,6 +1,6 @@
 # anatomy.md
 
-> Auto-maintained by OpenWolf. Last scanned: 2026-05-01T15:15:38.176Z
+> Auto-maintained by OpenWolf. Last scanned: 2026-05-01T15:17:06.484Z
 > Files: 23 tracked | Anatomy hits: 0 | Misses: 0
 
 ## ./
@@ -9,7 +9,7 @@
 - `backtest.py` — import: fetch_resolved_markets, run_backtest (~2535 tok)
 - `calibrator.py` — import: check_resolutions, get_report (~1334 tok)
 - `classifier.py` — import: classify, classify_async (~1147 tok)
-- `CLAUDE.md` — OpenWolf (~57 tok)
+- `CLAUDE.md` — Polymarket Pipeline (~709 tok)
 - `cli.py` — cmd_watch, cmd_run, cmd_backtest, cmd_calibrate + 6 more (~4698 tok)
 - `config.py` (~689 tok)
 - `dashboard.py` — PipelineState: run_scan_cycle, make_layout, render_header, render_status + 4 more (~3947 tok)
